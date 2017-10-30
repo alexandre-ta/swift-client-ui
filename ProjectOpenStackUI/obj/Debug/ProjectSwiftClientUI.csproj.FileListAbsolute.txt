@@ -1,0 +1,29 @@
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/bin/Debug/configProject.xml
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/bin/Debug/img/ajax-loader.gif
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/bin/Debug/img/de-base-ftp-icone-9400.ico
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/bin/Debug/img/dossier-ajouter-icone-7846.ico
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/bin/Debug/img/dossier-table-16.png
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/bin/Debug/img/file-table-16.png
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/bin/Debug/ProjectOpenStackUI.exe.config
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/bin/Debug/ProjectOpenStackUI.exe
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/bin/Debug/ProjectOpenStackUI.pdb
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/bin/Debug/RestSharp.dll
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/bin/Debug/Newtonsoft.Json.xml
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/bin/Debug/RestSharp.xml
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/obj/Debug/ProjectOpenStackUI.CreateFolderDialog.resources
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/obj/Debug/ProjectOpenStackUI.LoadingDialog.resources
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/obj/Debug/ProjectOpenStackUI.OpenStackView.resources
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/obj/Debug/ProjectOpenStackUI.Properties.Resources.resources
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/obj/Debug/ProjectSwiftClientUI.csproj.GenerateResource.Cache
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/obj/Debug/ProjectOpenStackUI.exe
+C:/Users/Alexta/documents/visual studio 2012/Projects/ProjectOpenStackUI/ProjectOpenStackUI/obj/Debug/ProjectOpenStackUI.pdb
+/Volumes/LACIE SHARE/25052014/Desktop/lpshen/assign2-7110309022/ProjectOpenStackUI/ProjectOpenStackUI/obj/Debug/ProjectSwiftClientUI.csprojResolveAssemblyReference.cache
+/Volumes/LACIE SHARE/25052014/Desktop/lpshen/assign2-7110309022/ProjectOpenStackUI/ProjectOpenStackUI/obj/Debug/ProjectOpenStackUI.CreateFolderDialog.resources
+/Volumes/LACIE SHARE/25052014/Desktop/lpshen/assign2-7110309022/ProjectOpenStackUI/ProjectOpenStackUI/obj/Debug/ProjectOpenStackUI.LoadingDialog.resources
+/Volumes/LACIE SHARE/25052014/Desktop/lpshen/assign2-7110309022/ProjectOpenStackUI/ProjectOpenStackUI/obj/Debug/ProjectOpenStackUI.OpenStackView.resources
+/Volumes/LACIE SHARE/25052014/Desktop/lpshen/assign2-7110309022/ProjectOpenStackUI/ProjectOpenStackUI/obj/Debug/ProjectOpenStackUI.Properties.Resources.resources
+/Volumes/LACIE SHARE/25052014/Desktop/lpshen/assign2-7110309022/ProjectOpenStackUI/ProjectOpenStackUI/obj/Debug/ProjectSwiftClientUI.csproj.GenerateResource.Cache
+/Volumes/LACIE SHARE/25052014/Desktop/lpshen/assign2-7110309022/ProjectOpenStackUI/ProjectOpenStackUI/obj/Debug/ProjectSwiftClientUI.csproj.CoreCompileInputs.cache
+/Volumes/LACIE SHARE/25052014/Desktop/lpshen/assign2-7110309022/ProjectOpenStackUI/ProjectOpenStackUI/obj/Debug/ProjectOpenStackUI.exe
+/Volumes/LACIE SHARE/25052014/Desktop/lpshen/assign2-7110309022/ProjectOpenStackUI/ProjectOpenStackUI/obj/Debug/ProjectOpenStackUI.pdb

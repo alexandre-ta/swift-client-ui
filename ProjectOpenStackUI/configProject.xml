@@ -1,0 +1,12 @@
+<Project>
+	<Configuration>
+		<Authentication>
+			<Url>http://202.121.178.250:5000/</Url>
+			<Version>v2.0</Version>
+		</Authentication>
+		<Storage>
+			<Url>http://202.121.178.250:8080/</Url>
+			<Version>v1</Version>
+		</Storage>
+	</Configuration>
+</Project>
